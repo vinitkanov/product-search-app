@@ -1,4 +1,4 @@
-# Product Search by FAKESTORE
+# Product Search by FAKESTORE API
 
 This is a simple product search application built with React, Vite, and Tailwind CSS.
 
